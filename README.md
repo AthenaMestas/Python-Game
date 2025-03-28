@@ -1,14 +1,19 @@
-# 
-Language: 
+# Python Game Program: Martha Stewart Kitchen Escape
+Language: Python
 
 ## 💡Overview
-- 
+- Absurdist text adventure where players collect bizarre items (such as nunchucks and spoiled milk) to battle Martha Stewart
+- Strategic gameplay requiring full inventory collection before kitchen confrontation
+- Directional navigation (North/South/East/West) with item collection mechanics
 
 ## 🗝️Key Features
-- Comprehensive Analysis
-  - 
+- Gameplay Highlights
+  - Room exploration with dynamic item interactions
+  - Inventory-based boss battle system
+  - Win/Lose condition tracking
 - Code Quality Highlights
-  - 
+  - Modular dictionaries for rooms/storyline (easy maintenance)
+  - Centralized game funtions like 'show_status'
 - Technical Achievements
   - 
 
