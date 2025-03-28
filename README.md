@@ -1,3 +1,29 @@
+# 
+Language: 
+
+## 💡Overview
+- 
+
+## 🗝️Key Features
+- Comprehensive Analysis
+  - 
+- Code Quality Highlights
+  - 
+- Technical Achievements
+  - 
+
+## ⚙️Technologies Used
+- Language: 
+- Tools: 
+
+## 📈Future Improvements
+- 
+
+
+
+
+
+
 # Python Game Program
 # What were the primary components of the interactive game?
 In the interactive Martha Stewart Kitchen Escape game, players navigate a house to collect absurd items/tools needed to defeat Martha, such as nunchucks and spoiled milk. While collecting these items and blindly navigating the text-based world, users must avoid entering the Kitchen - where Ms. Martha resides - until fully prepared (by collecting all items). Once fully prepared and entering the Kitchen, a battle commenses and all items collected are strategically used. Primarily, the user can naigate between rooms with directional inputs north, south, east, and west. If there is an un-obtained item in a room, the user may enter the item's name to pick it up and put it in their inventory.
